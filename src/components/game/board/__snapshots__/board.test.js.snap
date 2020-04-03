@@ -1,0 +1,85 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should take a snapshot of board 1`] = `
+<DocumentFragment>
+  <div
+    class="sc-AxirZ hJmkar"
+  >
+    <div
+      class="sc-AxiKw CYfUp"
+    >
+      <div
+        class="sc-AxhCb exkQbL"
+      >
+        <button
+          class="sc-AxjAm dRYkuE"
+        />
+      </div>
+      <div
+        class="sc-AxhCb exkQbL"
+      >
+        <button
+          class="sc-AxjAm dRYkuE"
+        />
+      </div>
+      <div
+        class="sc-AxhCb exkQbL"
+      >
+        <button
+          class="sc-AxjAm dRYkuE"
+        />
+      </div>
+    </div>
+    <div
+      class="sc-AxiKw CYfUp"
+    >
+      <div
+        class="sc-AxhCb exkQbL"
+      >
+        <button
+          class="sc-AxjAm dRYkuE"
+        />
+      </div>
+      <div
+        class="sc-AxhCb exkQbL"
+      >
+        <button
+          class="sc-AxjAm dRYkuE"
+        />
+      </div>
+      <div
+        class="sc-AxhCb exkQbL"
+      >
+        <button
+          class="sc-AxjAm dRYkuE"
+        />
+      </div>
+    </div>
+    <div
+      class="sc-AxiKw CYfUp"
+    >
+      <div
+        class="sc-AxhCb exkQbL"
+      >
+        <button
+          class="sc-AxjAm dRYkuE"
+        />
+      </div>
+      <div
+        class="sc-AxhCb exkQbL"
+      >
+        <button
+          class="sc-AxjAm dRYkuE"
+        />
+      </div>
+      <div
+        class="sc-AxhCb exkQbL"
+      >
+        <button
+          class="sc-AxjAm dRYkuE"
+        />
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;
